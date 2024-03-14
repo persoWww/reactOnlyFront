@@ -1,0 +1,7 @@
+li {
+    cursor: pointer;
+    border: 1px solid green;
+    &:not(:first-child) {
+        margin-top: 5px;
+    }
+}

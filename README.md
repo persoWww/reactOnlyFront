@@ -2,9 +2,9 @@
 
 ## run
 
-npm install
-npm run build
- - cette commande est paramétré avec --watch , et va compiler a chaque enregistrement.
+ - npm install
+ - npm run build
+    - cette commande est paramétré avec --watch , et va compiler a chaque enregistrement.
 
 ## settings better
 
